@@ -2,7 +2,7 @@
 
 **AI Native Engineer** building multi-agent systems, AI-powered applications, and developer tools.
 
-Former Delivery Assurance Advisor at Shell with 3+ years in logistics, supply chain optimization, and process engineering. Led a fleet parking optimization project saving $200-400K/year. Now channeling that analytical mindset into building AI products full-time.
+I apply Value Stream Mapping and Lean Manufacturing principles to software engineering - decomposing complex systems into optimized workflows, eliminating waste, and designing for real-world constraints. Former Delivery Assurance Advisor at Shell with 3+ years in logistics and process optimization. Now building AI products full-time.
 
 Based in Krakow, Poland.
 
@@ -16,9 +16,7 @@ Based in Krakow, Poland.
 
 **Prompt Engineering Observatory** - 40+ interactive HTML presentations covering advanced prompt engineering techniques, context engineering, agent architecture, multimodal prompts, and security. Built as an educational resource.
 
-**GhostWriter Audio** - Desktop app that reads Claude Code terminal output aloud. Built with Tauri v2 (Rust) + React, supports Microsoft Edge TTS and Google Cloud TTS with 20 customizable themes.
-
-**Craftship AI** - Personal AI atelier with adaptive model selection across 11 LLMs (Claude, GPT-4o, Gemini, o1), 8 budget tiers, and real-time cost monitoring.
+**Textinio** - Professional desktop Text-to-Speech application built with Electron. Supports 5 TTS providers (Google Cloud Chirp3-HD, ElevenLabs, OpenAI, Fish Audio, Piper), 60+ languages, 20 premium Polish voices, OCR/PDF extraction, and batch processing for 100K+ character documents. Built-in cost calculator and audio player with MP3 export.
 
 ---
 
@@ -32,10 +30,10 @@ Based in Krakow, Poland.
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat)
-![Tauri](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat)
 
-**AI/LLM:** Claude (Opus/Sonnet/Haiku) - GPT-4o - Gemini - Whisper - ElevenLabs - Google Cloud TTS
+**AI/LLM:** Claude (Opus/Sonnet/Haiku) - GPT-4o - Gemini - Google Cloud TTS - ElevenLabs - OpenAI TTS
 
 **Tools:** Claude Code - Cursor - VS Code - Git - Supabase - Vercel - Expo
 
@@ -45,13 +43,13 @@ Based in Krakow, Poland.
 
 ### Background
 
-Before tech, I spent 7+ years in logistics and operations:
+Before tech, I spent 8+ years in logistics, operations, and sales:
 
 - **Shell** (3 yrs) - Delivery Assurance, led fleet parking optimization ($200-400K savings), sole GSAP super-user, created SOPs and training programs, recognized as top 10% performer within first 6 months
 - **Maspex** (1.5 yrs) - Supply chain specialist, ran production line optimization simulations in FlexSim, process analysis with SAP/BW
-- **Sales** (2.5 yrs) - B2C photovoltaic sales, 300+ clients, team training and recruitment
+- **Sales** (4 yrs) - B2C photovoltaic sales, 300+ clients, team training and recruitment
 
-This background shapes how I build software: I decompose processes, map value streams, and optimize for real-world constraints - not just code elegance.
+I bring this operational mindset into software: Value Stream Mapping to design agent workflows, 5 Why for root cause analysis, Lean thinking to eliminate waste in architecture. I don't just write code - I engineer processes.
 
 ---
 
